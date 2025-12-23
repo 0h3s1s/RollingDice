@@ -17,7 +17,7 @@ const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
 const btnTheme = document.querySelector('.btn--theme');
 
-const goal = 10;
+const goal = 100;
 
 let scores, currentScore, activePlayer, playing, dice;
 let set = 1;
